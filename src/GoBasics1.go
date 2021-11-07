@@ -21,18 +21,6 @@ func main() { 										  // declare main function, the entrance
 
 // Results:
 /*
-PS F:\Software\go\go\Project> go run .\src\helloworld.go
-tom     jack
-tom
-jack
-F:\Software\go\go\Project
-tom says 'I love you'
-tom says "I love you too."
- Lifeis patience.
-Love is patience.Life
-Name    Age     Home    Work
-John    15      A       B
-PS F:\Software\go\go\Project> clear
 PS F:\Software\go\go\Project> go run .\src\GoBasics1.go
 tom     jack
 tom
